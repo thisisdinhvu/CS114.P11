@@ -42,7 +42,9 @@
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 1      | 22521692      | Nguyễn Đình Vũ         |[DinhVudeptraivl](https://github.com/DinhVudeptraivl) |22521692@gm.uit.edu.vn   |
+| 1      | 22521692      | Nguyễn Đình Vũ         |[thisisdinhvu](https://github.com/thisisdinhvu)       |22521692@gm.uit.edu.vn   |
+| 2      | 22521676      | Nguyễn Thành Vinh      |[VinhThanh860](https://github.com/VinhThanh860)       |22521676@gm.uit.edu.vn   |
+
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
